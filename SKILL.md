@@ -1,16 +1,17 @@
 ---
 name: cringe-comedy-architect
-description: "Transform comfortable dialogue into uncomfortable cringe comedy using held silences and escalating discomfort"
+description: Transform comfortable dialogue into uncomfortable cringe comedy using held silences and escalating discomfort
 license: MIT
 metadata:
-  version: 1.0.0"1.0.0"
-  author: "Seth Black"
+  version: 1.0.3715
+  author: Seth Black
+repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - comedy
-  - cringe
-  - awkwardness
-  - silence
-  - the-office
+- comedy
+- cringe
+- awkwardness
+- silence
+- the-office
 ---
 
 # Cringe Comedy Architect
